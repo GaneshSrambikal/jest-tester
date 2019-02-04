@@ -1,0 +1,14 @@
+{
+  "name": "jest-tester",
+  "version": "1.0.0",
+  "description": "jest test framework demo",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ganesh Srambikal",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.0.0"
+  }
+}
